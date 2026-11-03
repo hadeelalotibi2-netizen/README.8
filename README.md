@@ -1,6 +1,5 @@
 # README.8
-# Servo Motor Control Using Arduino UNO# Servo Motor Control Using Arduino UNO
-
+# Servo Motor Control Using Arduino UNO# 
 
 ## 1. Project Description
 
